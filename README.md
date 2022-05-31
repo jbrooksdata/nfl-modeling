@@ -14,3 +14,7 @@ Based on [Tej Seth's nflfastR modeling tutorial](https://www.youtube.com/watch?v
 The dot chart below represents the top 10 quarterbacks of the 2021 season ranked by average air yards over expectation. The expectation model for this data accounts for variables like time remaining and score differential to determine expected air yards based on various game situations. The code for Figure 2 can be viewed [here](https://github.com/jbrooksdata/nfl-modeling/blob/main/R/air%20%20yards%20expectation.R).
 
 ![](figures/airyards_expectation.png)
+
+## Notes
+
+- Figures 1 and 2 inspired by [Tej Seth's Basic Modeling Using NFL Data tutorial](https://www.youtube.com/watch?v=J4p8ZfYW5Oo).
